@@ -8,8 +8,9 @@ def summon_captain_planet(planeteer)# code an argument here
   planeteer.collect{|name| name.capitalize + "!"}
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls(calls)# code an argument here
   # Your code here
+  
 end
 
 def find_the_cheese# code an argument here
